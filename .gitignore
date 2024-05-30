@@ -2,3 +2,6 @@
 .classpath
 /node_module
 .Dockerfile
+.java.ts
+.scritp.sh
+/ravi
