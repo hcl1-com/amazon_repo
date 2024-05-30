@@ -1,0 +1,4 @@
+.project.json
+.classpath
+/node_module
+.Dockerfile
