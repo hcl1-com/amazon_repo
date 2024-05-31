@@ -1,0 +1,3 @@
+pull test
+update local repo
+update by remote repo
